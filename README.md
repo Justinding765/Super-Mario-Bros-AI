@@ -1,4 +1,4 @@
-# Super-Mario_Bros-AI
+# Super-Mario-Bros-AI
 This project implements a reinforcement learning algorithm using Proximal Policy Optimization (PPO) and a Convolutional Neural Network (CNN) policy 
 to train an AI agent to play Super Mario Bros inside an OpenAI gym environment. 
 The model was further improved through additional training using curriculum learning, where the agent 
